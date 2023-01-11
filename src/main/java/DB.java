@@ -8,7 +8,7 @@ import java.sql.Statement;
 public class DB {
     String url="jdbc:mysql://31.31.196.85:3306/u1867350_listquest";
     String usr="u1867350_admin";
-    String passwd="a486xc197";
+    String passwd="xxxxxxxx";
 
     private String line ="{";
 
